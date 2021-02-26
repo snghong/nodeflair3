@@ -262,7 +262,23 @@ function Gallery() {
 
 function Suggestions(){
     return(
-        <p>My Suggestions</p>
+        <div className="page-container">
+            <h1>Goal: Improve Traffic for Nodeflair</h1>
+            <ul>
+                <li>
+                    <h2>Product Features </h2>
+                    <p>Login System: We can build a login system that saves each user's profile, which contains information about their tech stack. As job-searching is usually a lengthy and repetitive experience, saving user information makes it more convenient for them to use Nodeflair frequently. Hence, creating this feature is likely to improve the percentage of returning users, thus improving Nodeflair's traffic.</p>
+                </li>
+                <li>
+                    <h2>Product Enhancement </h2>
+                    <p>Revamping Selection Logic: The current selection system does not provide an optimal user experience. When searching for jobs on Nodeflair, the user's selected tech stacks are compared with those each company uses. The more tech stacks are selected, the fewer the jobs displayed. This is unintuitive - as a user, I would prefer to list my skills and then get recommended certain jobs. When I am able to list more skills, I would then meet the requirements for more jobs. Changing the selection logic will improve the user experience of Nodeflair and thus improve its traffic.</p>
+                </li>
+                <li>
+                    <h2>Product Marketing</h2>
+                    <p>Reviews and Statistics: Show the number of users who received offers on Nodeflair and their positive reviews. This makes the site seem more trusted and success-yielding - prompting job-searchers to actively apply on the site and improve its traffic as returning users.</p>
+                </li>
+            </ul>
+        </div>
     )
 }
       
