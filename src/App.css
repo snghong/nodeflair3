@@ -233,11 +233,3 @@ p.company-name {
   margin:5px;
   height: 200px;
 }
-
-@media (max-width:800px){
-  .theme-image {
-    width:  20%;
-    margin:5px;
-    height: 70px;
-  }
-}
