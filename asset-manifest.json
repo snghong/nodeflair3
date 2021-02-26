@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nodeflair3/static/css/main.c9260265.chunk.css",
+    "main.js": "/nodeflair3/static/js/main.7eb00281.chunk.js",
+    "main.js.map": "/nodeflair3/static/js/main.7eb00281.chunk.js.map",
+    "runtime-main.js": "/nodeflair3/static/js/runtime-main.da1036d3.js",
+    "runtime-main.js.map": "/nodeflair3/static/js/runtime-main.da1036d3.js.map",
+    "static/css/2.150d169a.chunk.css": "/nodeflair3/static/css/2.150d169a.chunk.css",
+    "static/js/2.5afbe096.chunk.js": "/nodeflair3/static/js/2.5afbe096.chunk.js",
+    "static/js/2.5afbe096.chunk.js.map": "/nodeflair3/static/js/2.5afbe096.chunk.js.map",
+    "static/js/3.d77ec7d9.chunk.js": "/nodeflair3/static/js/3.d77ec7d9.chunk.js",
+    "static/js/3.d77ec7d9.chunk.js.map": "/nodeflair3/static/js/3.d77ec7d9.chunk.js.map",
+    "index.html": "/nodeflair3/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/nodeflair3/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c9260265.chunk.css.map": "/nodeflair3/static/css/main.c9260265.chunk.css.map",
+    "static/js/2.5afbe096.chunk.js.LICENSE.txt": "/nodeflair3/static/js/2.5afbe096.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da1036d3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.5afbe096.chunk.js",
+    "static/css/main.c9260265.chunk.css",
+    "static/js/main.7eb00281.chunk.js"
+  ]
+}
